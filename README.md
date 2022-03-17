@@ -1,6 +1,6 @@
 # CoCoPySHS - Les coulisses du Code : Python pour les SHS
 
-![CocoPySHS](img/cocopyshs)
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs.png)
 
 ## Séance 1 - 17/03/2022
 
