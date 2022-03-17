@@ -1,4 +1,4 @@
-#CoCoPySHS - Séance 1 - 17/03/2022
+# #CoCoPySHS - Séance 1 - 17/03/2022
 
 ## Résumé de la séance
 
