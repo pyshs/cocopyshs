@@ -8,7 +8,7 @@ Trois publics en particulier sont attendus, et ont été au rendez-vous (une qua
 
 C'est ce que fait **Tristan Salord**. Il se définit avant tout comme un socio-anthropologue, et pas comme un informaticien. Il est chercheur en humanité digitale : la problématique est première, et le traitement des données est là pour y répondre. Par conséquent, peut-être que son code est "une monstruosité pour un développeur", mais elle permet de rendre utilisable des données : dans ce cas, des listes d'ingrédients.
 
-En effet, coder : c'est réaliser des traductions, transporter des objets d'un univers à d'autre, en les dotant d'agentivité. Lui, il est venu à la programmation après une formation en sociologie par la petite porte du code : les bases de données, et SQL. Au gré des projets, il a été amené à automatiser certains traitements. Comme il le dit, *derrière la nécessité de coder, il ya toujours un calcul cout/bénéfice à faire : si ce que je peux faire je peux le faire manuellement, il n'y a pas besoin de coder*. 
+En effet, coder : c'est réaliser des traductions, transporter des objets d'un univers à d'autre, en les dotant d'agentivité. Lui, il est venu à la programmation après une formation en sociologie par la petite porte du code : les bases de données, et SQL. Au gré des projets, il a été amené à automatiser certains traitements. Comme il le dit, *derrière la nécessité de coder, il y a toujours un calcul cout/bénéfice à faire : si ce que je peux faire je peux le faire manuellement, il n'y a pas besoin de coder*. 
 
 Son travail en cours depuis quelques années sur les légumineuses s'inscrit dans un projet sur le changement des pratiques alimentaires. Il existe en effet des blocages technologiques autour des connaissances sur les légumineuses, et finalement peu de connaissances scientifiques sur la question. L'idée est d'apprendre des grosses bases de données alimentaires. Or, il n'existait pas d'outils de traitement de ces bases de données et d'ingrédients.
 
@@ -26,7 +26,7 @@ Son avis sur le machine learning ? S'il est possible de l'éviter, autant l'évi
 
 Et puis, finalement, **pourquoi faire tout ça ?** Cela permet d'ouvrir les boites noires de la production alimentaire, qui seraient inaccessibles sinon. Et de traiter des volumes impossibles à traiter à la main. Ce parseur est alors essentiel dans la production de résultats : réseaux de liens, évolution dans le temps, statistiques descriptives. Des publications sont en cours tant sur les résultats que sur le jeu de données produit.
 
-Après la présentation, les questions ont balayé les problématiques de structure des données, du temps gagné à l'automatisation, des conditions de publication du script, de la décision entre apprendre à programmer soi-même ou déléguer à un spécialiste, ou encore des ressources disponibles. La question reste ouverte de la manière de faciliter les échanges : Twitter avec un hashtag #cocopyshs ? Un serveur Discord ? Ouvrir un mattermost avec Hum-Num ? Rélexion à suivre.
+Après la présentation, les questions ont balayé les problématiques de structure des données, du temps gagné à l'automatisation, des conditions de publication du script, de la décision entre apprendre à programmer soi-même ou déléguer à un spécialiste, ou encore des ressources disponibles. La question reste ouverte de la manière de faciliter les échanges : Twitter avec un hashtag #cocopyshs ? Un serveur Discord ? Ouvrir un mattermost avec Hum-Num ? Réflexion à suivre.
 
 Quelques remarques remarquables :
 
