@@ -6,7 +6,7 @@ Cette deuxième séance organisée par l'URFIST de Lyon propose de plonger direc
 
 Le duo Mariannig Le Béchec et Emilien Schultz présentent justement cette dynamique de reproduction de données d'une enquête menée en 2021 **Reproductibilité de l'enquête SOSP - State of Open Science Practices in France** (Mariannig Le Béchec - Aline Bouchard - Philippe Charrier - Claire Denecker - Gabriel Gallezot - Stéphanie Rennes) dont le rapport est paru il y a peu https://hal.archives-ouvertes.fr/hal-03545512v1
 
-La démarche de l'équipe investigatrice était justement de favoriser les bonnes pratiques de la recherche mais dans les contraintes d'une activité prises par les impératifs matériels et organisationnels. Ainsi, s'ils ont utilisé un logiciel propriétaire pour la collecte et l'analyse des données (*Sphynx*, déployé par Huma-Num), ils ont rapidement ouvert les données en déposant le jeu de données et de méta-données sur *Zenodo* : https://zenodo.org/record/5827206.
+La démarche de l'équipe investigatrice était justement de favoriser les bonnes pratiques de la recherche mais dans les contraintes d'une activité prises par les impératifs matériels et organisationnels. Ainsi, s'ils ont utilisé un logiciel propriétaire pour la collecte et l'analyse des données (Sphinx, déployé par la TGIR Huma-Num qui avait l'avantage de permettre la mise en ligne du questionnaire pour la passation et le traitement des données), ils ont rapidement ouvert les données en déposant le jeu de données et de méta-données sur *Zenodo* : https://zenodo.org/record/5827206.
 
 De là, nous avons tout pour nous saisir de cette enquête, vérifier certains traitements et aller plus loin si besoin. Cela permet de mettre à l'épreuve les outils existant en Python.
 

@@ -17,6 +17,6 @@ Présentation de *Mariannig Le Béchec* et *Emilien Schultz* **Reproductibilité
 
 > Pour cette deuxième séance, Mariannig est revenue sur l'enquête collective qu'elle a coordonné sur les pratiques de science ouverte des chercheurs et de leurs usages d'outils numériques, dont les données ont été rendues disponibles. Puis Emilien a présenté le *Notebook Jupyter* de reproduction des analyses qu'ils ont construit sur la base de ces données pour approfondir certains résultats avec les outils disponibles de l'écosystème Python. Il a insisté sur les forces et les faiblesses (actuelles) des outils pour le traitement statistique en sciences sociales, et les tours de main qu'il utilise.
 
-- [Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/presentation.pdf)
 - [Le résumé de l'intervention](https://github.com/pyshs/cocopyshs/blob/main/docs/resume_seance2.md)
-- [Le dépôt des données de la présentation](https://github.com/emilienschultz/sosppyshs)
+- [Les slides de la présentation de l'enquête](https://github.com/pyshs/cocopyshs/blob/main/docs/seance2_Mariannig_Le_Bechec.pdf)
+- [Le dépôt des données de la réanalyse](https://github.com/emilienschultz/sosppyshs)
