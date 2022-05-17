@@ -20,3 +20,12 @@ Présentation de *Mariannig Le Béchec* et *Emilien Schultz* **Reproductibilité
 - [Le résumé de l'intervention](https://github.com/pyshs/cocopyshs/blob/main/docs/resume_seance2.md)
 - [Les slides de la présentation de l'enquête](https://github.com/pyshs/cocopyshs/blob/main/docs/seance2_Mariannig_Le_Bechec.pdf)
 - [Le dépôt des données de la réanalyse](https://github.com/emilienschultz/sosppyshs)
+
+## Séance 3 - 12/05/2022
+
+Présentation de *Lucie Loubère* **Utilisation de scripts Python en amont d'Iramuteq pour l'analyse textuelle**
+
+> Pour cette troisième séance, Lucie montre ses pratiques peu visibles de **transformation des données**, en amont de l'usage d'un logiciel spécialisé (dans ce cas, Iramuteq). La programmation en langage Python permet d'avoir une forte flexibilité pour collecter les données et constituer différents corpus textuels qui respectent les formats attendus par le logiciel.
+
+- [Le résumé de l'intervention](https://github.com/pyshs/cocopyshs/blob/main/docs/resume_seance3.md)
+- [Les slides de la présentation de l'enquête]()
