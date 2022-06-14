@@ -5,7 +5,7 @@
 ## La séance 5 de Léo Mignot est reportée pour septembre 2022 - Programme à venir
 
 
-## Séance 4 - 08/06/2022
+## Séance 4 - 09/06/2022
 
 Présentation de *Maya Anderson-Gonzalez* et *Célya Gruson-Daniel* de Inno3 **Python en code et no-code pour la cartgographie de réseaux**
 
