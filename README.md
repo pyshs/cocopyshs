@@ -12,7 +12,7 @@ Présentation de *Maya Anderson-Gonzalez* et *Célya Gruson-Daniel* de Inno3 **P
 > Pour cette quatrième séance, Maya et Célya font un retour d'expérience de deux projets menés au sein du cabinet de conseil en innovation ouverte Inno3 sur la cartographie de réseaux. La mise en comparaison de ces deux projets, l'un recourrant à un script écrit en Python pour la collecte des données, l'autre par un outil déjà existant, permet de réflechir sur de nombreuses dimensions : le choix d'une solution impliquant de la programmation vs. un logiciel déjà existant ; l'intégration d'une expertise extérieure dans une équipe pour développer le morceau de code nécessaire pour la collecte et la mise en forme des données ; les stratégies différentes de documentation des étapes de traitement des données. 
 
 - [Le résumé de l'intervention](https://github.com/pyshs/cocopyshs/blob/main/docs/resume_seance4.md)
-- [Les slides de la présentation de l'enquête]()
+- [Les slides de la présentation de l'enquête](https://github.com/pyshs/cocopyshs/blob/main/docs/Seance4_Maya_AndersonGonzalez_Celya_GrusonDaniel.pdf)
 
 ## Séance 3 - 12/05/2022
 
