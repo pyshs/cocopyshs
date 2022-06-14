@@ -28,4 +28,13 @@ Présentation de *Lucie Loubère* **Utilisation de scripts Python en amont d'Ira
 > Pour cette troisième séance, Lucie montre ses pratiques peu visibles de **transformation des données**, en amont de l'usage d'un logiciel spécialisé (dans ce cas, Iramuteq). La programmation en langage Python permet d'avoir une forte flexibilité pour collecter les données et constituer différents corpus textuels qui respectent les formats attendus par le logiciel.
 
 - [Le résumé de l'intervention](https://github.com/pyshs/cocopyshs/blob/main/docs/resume_seance3.md)
+- [Les slides de la présentation de l'enquête](https://github.com/pyshs/cocopyshs/blob/main/docs/seance3_Lucie_Loubere.pdf)
+
+## Séance 3 - 12/05/2022
+
+Présentation de *Maya Anderson-Gonzalez* et *Célya Gruson-Daniel* de Inno3 **Python en code et no-code pour la cartgographie de réseaux**
+
+> Pour cette quatrième séance, Maya et Célya font un retour d'expérience de deux projets menés au sein du cabinet de conseil en innovation ouverte Inno3 sur la cartographie de réseaux. La mise en comparaison de ces deux projets, l'un recourrant à un script écrit en Python pour la collecte des données, l'autre par un outil déjà existant, permet de réflechir sur de nombreuses dimensions : le choix d'une solution impliquant de la programmation vs. un logiciel déjà existant ; l'intégration d'une expertise extérieure dans une équipe pour développer le morceau de code nécessaire pour la collecte et la mise en forme des données ; les stratégies différentes de documentation des étapes de traitement des données. 
+
+- [Le résumé de l'intervention](https://github.com/pyshs/cocopyshs/blob/main/docs/resume_seance4.md)
 - [Les slides de la présentation de l'enquête]()
