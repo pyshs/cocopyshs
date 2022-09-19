@@ -1,9 +1,35 @@
 
+# Programme 2022-2023
+
+## Séance 1 - 20/10/2022
+
+Présentation de *Émilien Schultz* (médialab), *Mathieu Morey* (Datactivist) et *Antoine Blanchard* (Datactivist), **Des notebooks Jupyter pour découvrir les usages de Python pour les SHS - pourquoi ? comment ? pour quel résultat ?**
+
+## Séance 2 - 24/11/2022
+
+Présentation de *Séverine Gedzelman* (Triangle), **Transition des SHS vers le numérique : Python, une solution douce et acidulée parmi d’autres » (des expériences de programmation mixtes)**
+
+## Séance 3 - 19/01/2023
+
+Présentation de *Margherita Parigini* (Université de Genève), **Mettre en oeuvre une stratégie de traitement automatique de la langue en littérature : fine tuning d'un modèle BERT pour la détection du doute dans les écrits de Italo Calvino**
+
+## Séance 4 - 16/03/2023
+
+Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
+
+## Séance 5 - 4/05/2023
+
+Présentation de *Max Béligné* (Université Lyon 2), **Répondre au défi de la reproductibilité d'une recherche en humanité numérique par la création d'une interface Web**
+
+
+
+# Session 2021-2022
+
+
 
 ![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs.png)
 
-## La séance 5 de Léo Mignot est reportée pour septembre 2022 - Programme à venir
-
+## La séance 5 de Léo Mignot est annulée
 
 ## Séance 4 - 09/06/2022
 
