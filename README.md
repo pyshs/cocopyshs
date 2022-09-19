@@ -3,6 +3,8 @@
 
 ## Séance 1 - 20/10/2022
 
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/20102022.png)
+
 Présentation de *Émilien Schultz* (médialab), *Mathieu Morey* (Datactivist) et *Antoine Blanchard* (Datactivist), **Des notebooks Jupyter pour découvrir les usages de Python pour les SHS - pourquoi ? comment ? pour quel résultat ?**
 
 ## Séance 2 - 24/11/2022
