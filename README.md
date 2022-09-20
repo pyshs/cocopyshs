@@ -1,6 +1,8 @@
 
 # Programme 2022-2023
 
+Inscription obligatoire pour avoir le lien de connexion : https://sygefor.reseau-urfist.fr/#/training/9495/11158
+
 ## Séance 1 - 20/10/2022
 
 ![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/20102022.jpg)
