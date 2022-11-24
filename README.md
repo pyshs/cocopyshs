@@ -11,7 +11,7 @@ Présentation de *Émilien Schultz* (médialab), *Mathieu Morey* (Datactivist) e
 
 ## Séance 2 - 24/11/2022
 
-Présentation de *Séverine Gedzelman* (Triangle), **Transition des SHS vers le numérique : Python, une solution douce et acidulée parmi d’autres » (des expériences de programmation mixtes)**
+Présentation de *Matthias Bussonnier* (dev. open source & open science à QuanSight), **Recommandations pour la programmation scientifique par un contributeur open source à la science ouverte**
 
 ## Séance 3 - 19/01/2023
 
