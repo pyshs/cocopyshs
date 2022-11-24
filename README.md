@@ -13,6 +13,9 @@ Présentation de *Émilien Schultz* (médialab), *Mathieu Morey* (Datactivist) e
 
 Présentation de *Matthias Bussonnier* (dev. open source & open science à QuanSight), **Recommandations pour la programmation scientifique par un contributeur open source à la science ouverte**
 
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/coco241122.jpg)
+
+
 ## Séance 3 - 19/01/2023
 
 Présentation de *Margherita Parigini* (Université de Genève), **Mettre en oeuvre une stratégie de traitement automatique de la langue en littérature : fine tuning d'un modèle BERT pour la détection du doute dans les écrits de Italo Calvino**
