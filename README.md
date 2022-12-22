@@ -1,7 +1,7 @@
 
 # Programme 2022-2023
 
-Le lien des vidéos des séances : https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs/cocopyshs-20212022-seance-4
+Le lien des vidéos des séances : https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs
 
 Inscription obligatoire pour avoir le lien de connexion : https://sygefor.reseau-urfist.fr/#/training/9495/11158
 
