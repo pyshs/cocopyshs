@@ -5,15 +5,17 @@ Le lien des vidéos des séances : https://www.canal-u.tv/chaines/callisto/les-c
 
 Inscription obligatoire pour avoir le lien de connexion : https://sygefor.reseau-urfist.fr/#/training/9495/11158
 
-## Séance 1 - 20/10/2022
+:warning: *la séance 3 n'est pas encore disponible en vidéo*
 
-![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/20102022.jpg)
+## Séance 1 - 20/10/2022
 
 Présentation de *Émilien Schultz* (médialab), *Mathieu Morey* (Datactivist) et *Antoine Blanchard* (Datactivist), **Des notebooks Jupyter pour découvrir les usages de Python pour les SHS - pourquoi ? comment ? pour quel résultat ?**
 
 Dans cette présentation, Emilien revient sur le processus de développement conjoint entre Huma-Num Lab (Stéphane Pouyllau et Nicolas Sauret) et Datactivist (Mathieu Morey et Antoine Blanchard) de démonstrateurs de l'utilisation du *machine learning* pour les SHS sous la forme de Notebooks Jupyter écrits en Python. Ce projet qui a donné naissance à 5 Notebooks pédagogiques et exécutables vise à poser la question des outils actuellement utilisés par les communautés scientifiques en SHS, et les supports nécessaires à leur transmission. Rendus disponibles sur la [plateforme IO](https://gitlab.huma-num.fr/io) hébergée sur la forge d'Huma-Num, ces démonstrateurs ont pour objectif d'être utilisés comme point de départ pour expérimenter, enseigner ou développer de nouvelles solutions.
 
 [Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/Presentation_emilien.pdf)
+
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/20102022.jpg)
 
 
 ## Séance 2 - 24/11/2022
