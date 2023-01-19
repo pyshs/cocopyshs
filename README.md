@@ -22,6 +22,13 @@ Présentation de *Matthias Bussonnier* (dev. open source & open science à QuanS
 
 Présentation de *Margherita Parigini* (Université de Genève), **Mettre en oeuvre une stratégie de traitement automatique de la langue en littérature : fine tuning d'un modèle BERT pour la détection du doute dans les écrits de Italo Calvino**
 
+Dans cette présentation, Margherita est revenue sur le processus la conduisant à se saisir les outils de traitement automatique de la langue, et plus particulièrement les modèles BERT avec SpaCy pour réaliser de la détection d'entités nommées, au service de sa réflexion inscrite en littérature. Réalisant une thèse sur l'auteur italien Italo Calvino, elle a eu l'occasion de constituer un vaste corpus annoté de passages caractéristiques du style de l'auteur créant un sentiment de doute sur la réalité de la situation analysée. Souhaitant explorer une autre stratégie d'analyse, elle s'est formée à la programmation scientifique et Python et a utilisé ce corpus pour entraîner un modèle de détection de ces passages. Cela lui a permis d'interroger différemment les corpus étudiés, d'étendre sa réflexion à d'autres corpus (les essais), et de mettre en discussion la nature de ces passages au croisement entre interprétation et formalisation. Cette expérience lui a aussi permis d'initier de nouvelles collaborations, ![et à publier son analyse dans une conférence d'humanités numériques.](https://ceur-ws.org/Vol-3290/long_paper399.pdf). Dans sa présentation, elle insiste notamment sur les difficultés qu'elle a rencontré mais aussi sur l'importance du traitement des données antérieur à l'entraînement du modèle.
+
+![Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/presentation_margherita.pptx)
+
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs3.jpeg)
+
+
 ## Séance 4 - 16/03/2023
 
 Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
