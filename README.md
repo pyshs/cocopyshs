@@ -11,9 +11,18 @@ Inscription obligatoire pour avoir le lien de connexion : https://sygefor.reseau
 
 Présentation de *Émilien Schultz* (médialab), *Mathieu Morey* (Datactivist) et *Antoine Blanchard* (Datactivist), **Des notebooks Jupyter pour découvrir les usages de Python pour les SHS - pourquoi ? comment ? pour quel résultat ?**
 
+Dans cette présentation, Emilien revient sur le processus de développement conjoint entre Huma-Num Lab (Stéphane Pouyllau et Nicolas Sauret) et Datactivist (Mathieu Morey et Antoine Blanchard) de démonstrateurs de l'utilisation du *machine learning* pour les SHS sous la forme de Notebooks Jupyter écrits en Python. Ce projet qui a donné naissance à 5 Notebooks pédagogiques et exécutables vise à poser la question des outils actuellement utilisés par les communautés scientifiques en SHS, et les supports nécessaires à leur transmission. Rendus disponibles sur la [plateforme IO](https://gitlab.huma-num.fr/io) hébergée sur la forge d'Huma-Num, ces démonstrateurs ont pour objectif d'être utilisés comme point de départ pour expérimenter, enseigner ou développer de nouvelles solutions.
+
+[Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/Presentation_emilien.pdf)
+
+
 ## Séance 2 - 24/11/2022
 
 Présentation de *Matthias Bussonnier* (dev. open source & open science à QuanSight), **Recommandations pour la programmation scientifique par un contributeur open source à la science ouverte**
+
+Dans cette présentation, Matthias revient sur son expérience d'abord de chercheur en biophysique, puis comme contributeur à l'écosystème *open source* de la programmation scientifique en Python (notamment dans le projet Jupyter). En revenant sur la particularité de ce qu'est "programmer" pour un scientifique, il souligne l'importance de l'automatisation et de la formalisation du traitement des données numériques, qui participe en retour à améliorer la qualité du travail de recherche. Il revient aussi sur la genèse et la philosophie des notebooks Jupyter, tout en insistant que les bonnes pratiques de la programmation scientifique en Python dépassent la question du langage lui-même et concernent un ensemble d'outils, notamment la gestion des versions. Cette présentation est une introduction au lien entre science ouverte et *open source*.
+
+[Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/Presentation_matthias.pdf)
 
 ![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/coco241122.jpg)
 
@@ -22,7 +31,7 @@ Présentation de *Matthias Bussonnier* (dev. open source & open science à QuanS
 
 Présentation de *Margherita Parigini* (Université de Genève), **Mettre en oeuvre une stratégie de traitement automatique de la langue en littérature : fine tuning d'un modèle BERT pour la détection du doute dans les écrits de Italo Calvino**
 
-Dans cette présentation, Margherita est revenue sur le processus la conduisant à se saisir les outils de traitement automatique de la langue, et plus particulièrement les modèles BERT avec SpaCy pour réaliser de la détection d'entités nommées, au service de sa réflexion inscrite en littérature. Réalisant une thèse sur l'auteur italien Italo Calvino, elle a eu l'occasion de constituer un vaste corpus annoté de passages caractéristiques du style de l'auteur créant un sentiment de doute sur la réalité de la situation analysée. Souhaitant explorer une autre stratégie d'analyse, elle s'est formée à la programmation scientifique et Python et a utilisé ce corpus pour entraîner un modèle de détection de ces passages. Cela lui a permis d'interroger différemment les corpus étudiés, d'étendre sa réflexion à d'autres corpus (les essais), et de mettre en discussion la nature de ces passages au croisement entre interprétation et formalisation. Cette expérience lui a aussi permis d'initier de nouvelles collaborations, [et à publier son analyse dans une conférence d'humanités numériques.](https://ceur-ws.org/Vol-3290/long_paper399.pdf). Dans sa présentation, elle insiste notamment sur les difficultés qu'elle a rencontré mais aussi sur l'importance du traitement des données antérieur à l'entraînement du modèle.
+Dans cette présentation, Margherita est revenue sur le processus la conduisant à se saisir les outils de traitement automatique de la langue, et plus particulièrement les modèles BERT avec SpaCy pour réaliser de la détection d'entités nommées, au service de sa réflexion inscrite en littérature. Réalisant une thèse sur l'auteur italien Italo Calvino, elle a eu l'occasion de constituer un corpus annoté de passages caractéristiques du style de l'auteur. Souhaitant explorer une autre stratégie d'analyse, elle s'est formée à la programmation scientifique en Python et a utilisé ce corpus pour entraîner un modèle de détection de ces passages. Cela lui a permis d'interroger différemment les corpus étudiés, d'étendre sa réflexion à d'autres corpus, et de mettre en discussion la nature de ces passages au croisement entre interprétation et formalisation. Dans sa présentation, elle insiste aussi sur les difficultés qu'elle a rencontré mais aussi sur l'importance du traitement des données antérieur à l'entraînement du modèle. Cette expérience lui a aussi permis d'initier de nouvelles collaborations, [et à publier son analyse dans une conférence d'humanités numériques.](https://ceur-ws.org/Vol-3290/long_paper399.pdf). 
 
 [Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/presentation_margherita.pptx)
 
