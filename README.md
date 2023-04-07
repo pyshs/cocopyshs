@@ -40,7 +40,7 @@ Dans cette présentation, Margherita est revenue sur le processus la conduisant 
 ![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs3.jpeg)
 
 
-## Séance 4 - 16/03/2023
+## Séance 4 : reportée au 01/06/2023
 
 Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
 
