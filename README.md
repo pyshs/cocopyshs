@@ -43,11 +43,15 @@ Dans cette présentation, Margherita est revenue sur le processus la conduisant 
 
 Présentation de *Max Béligné* (Université Lyon 2), **Répondre au défi de la reproductibilité d'une recherche en humanité numérique par la création d'une interface Web**
 
-## Séance 5 : reportée au 01/06/2023
+Dans cette présentation, Max Béligné revient dans le processus initié pendant sa thèse en épistémologie de la géographie de construire une interface web. En effet, ses analyses portaient sur des données qu'il ne pouvait directement rendre disponible en raison d'une convention signée. Pour permettre cette mise en publication mais aussi faciliter ses propres traitements, il a développé une interface avec le processus Django. Dans cette communication, il revient sur les différentes étapes de cette expérience, son apprentissage progressif des bons réflexes, et les enseignements qu'il en tire pour ses futurs travaux. Cette interface est devenue interdépendante de son travail de thèse, ce qui souligne la place de l'instrumentation numérique en sciences humaines et sociales.
+
+## Séance 5 - 01/06/2023
 
 Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
 
+Dans cette présentation à trois voix par Célya Gruson-Daniel (Inno3, COSTECH/UTC), Claire Lemercier (CNRS, CSO/SciencesPo) et Emilien Schultz (Medialab/SciencesPo), les intervenantes reviennent sur le traitement des données d'un questionnaire conduit dans le projet [*Décliner la science ouverte*](https://declinerso.pubpub.org/). Cette analyse a d'abord été conduite avec un tableur et les outils de R, puis dans un second temps une démarche de reproductibilité a été initiée avec Python. Ce cheminement pose la question de la stabilisation progressive des résultats et les conditions de la reproductibilité, notamment dans la mesure où les bibliothèques R et Python diffèrent. Cela pose en retour des questions épistémologiques sur l'instrumentation numérique utilisée dans nos recherches.
 
+[Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/declinerso.html)
 
 # Session 2021-2022
 
