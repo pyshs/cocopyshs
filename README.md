@@ -1,7 +1,7 @@
 
 # Programme 2022-2023
 
-[Les enregistrements des séances sont disponibles sur Canal U](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
+[Les enregistrements des séances sont disponibles sur Canal U](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs) (Séance 3, 4 et 5 en cours de traitement).
 
 ## Séance 1 - 20/10/2022
 
