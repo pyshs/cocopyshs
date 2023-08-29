@@ -55,6 +55,8 @@ Dans cette présentation à trois voix par Célya Gruson-Daniel (Inno3, COSTECH/
 
 [Les slides de la présentation](https://pad.inno3.eu/p/Z-asMAOdQ#/)
 
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs-cgd.jpeg)
+
 
 # Session 2021-2022
 
