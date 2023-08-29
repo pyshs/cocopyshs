@@ -53,15 +53,13 @@ Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po
 
 Dans cette présentation à trois voix par Célya Gruson-Daniel (Inno3, COSTECH/UTC), Claire Lemercier (CNRS, CSO/SciencesPo) et Emilien Schultz (Medialab/SciencesPo), les intervenantes reviennent sur le traitement des données d'un questionnaire conduit dans le projet [*Décliner la science ouverte*](https://declinerso.pubpub.org/). Cette analyse a d'abord été conduite avec un tableur et les outils de R, puis dans un second temps une démarche de reproductibilité a été initiée avec Python. Ce cheminement pose la question de la stabilisation progressive des résultats et les conditions de la reproductibilité, notamment dans la mesure où les bibliothèques R et Python diffèrent. Cela pose en retour des questions épistémologiques sur l'instrumentation numérique utilisée dans nos recherches.
 
-[Les slides de la présentation](https://github.com/pyshs/cocopyshs/blob/main/docs/declinerso.html)
+[Les slides de la présentation](https://pad.inno3.eu/p/Z-asMAOdQ#/)
+
 
 # Session 2021-2022
 
 
-
 ![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs.png)
-
-## La séance 5 de Léo Mignot est annulée
 
 ## Séance 4 - 09/06/2022
 
