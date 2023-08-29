@@ -39,14 +39,13 @@ Dans cette présentation, Margherita est revenue sur le processus la conduisant 
 
 ![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs3.jpeg)
 
-
-## Séance 4 : reportée au 01/06/2023
-
-Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
-
-## Séance 5 - 4/05/2023
+## Séance 4 - 4/05/2023
 
 Présentation de *Max Béligné* (Université Lyon 2), **Répondre au défi de la reproductibilité d'une recherche en humanité numérique par la création d'une interface Web**
+
+## Séance 5 : reportée au 01/06/2023
+
+Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
 
 
 
