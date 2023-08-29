@@ -45,6 +45,8 @@ Présentation de *Max Béligné* (Université Lyon 2), **Répondre au défi de l
 
 Dans cette présentation, Max Béligné revient dans le processus initié pendant sa thèse en épistémologie de la géographie de construire une interface web. En effet, ses analyses portaient sur des données qu'il ne pouvait directement rendre disponible en raison d'une convention signée. Pour permettre cette mise en publication mais aussi faciliter ses propres traitements, il a développé une interface avec le processus Django. Dans cette communication, il revient sur les différentes étapes de cette expérience, son apprentissage progressif des bons réflexes, et les enseignements qu'il en tire pour ses futurs travaux. Cette interface est devenue interdépendante de son travail de thèse, ce qui souligne la place de l'instrumentation numérique en sciences humaines et sociales.
 
+![CocoPySHS](https://github.com/pyshs/cocopyshs/blob/main/img/cocopyshs-mb.jpeg)
+
 ## Séance 5 - 01/06/2023
 
 Présentation de *Célya Gruson-Daniel* (Inno3), *Claire Lemercier* (Sciences Po) et *Emilien Schultz* (Medialab), **La traduction de R vers Python : enjeux pratiques et épistémiques**
